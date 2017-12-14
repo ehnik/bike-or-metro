@@ -1,7 +1,9 @@
 This application allows users to enter weather requirements for their mode of commute. According to their preferences, they will be shown whether they should bike or take the metro.
 
+Please note that the configuration files in this app are from a template. The React/Flux code is my own.
 
->Please see below for additional information about the files in this directory
+
+Please see below for additional information about the files I created in this directory
 
 #Weather.js
 >Since the app can't function without a response from the API, I had it initialize
