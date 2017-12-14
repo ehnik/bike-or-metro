@@ -1,3 +1,6 @@
+This application allows users to enter weather requirements for their mode of commute. According to their preferences, they will be shown whether they should bike or take the metro.
+
+
 >Please see below for additional information about the files in this directory
 
 #Weather.js
