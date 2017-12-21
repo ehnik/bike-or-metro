@@ -1,6 +1,6 @@
 This application allows users to enter weather requirements for their mode of commute. According to their preferences, they will be shown whether they should bike or take the metro.
 
-Please note that the configuration files in this app are from a template. The React/Flux code is my own.
+The React/Flux code in this application is my own; the configuration files are inherited from a template.
 
 
 Please see below for additional information about the files I created in this directory
